@@ -57,23 +57,17 @@ crescer e aprender junto com você.
 1.  Clone o repositório:
 
 ``` bash
-git clone https://github.com/seu-usuario/OmniAI.git
-cd OmniAI
+https://github.com/danccoelho/OMNIAI.git
+cd OMNIAI
 ```
 
-2.  Instale as dependências:
-
-``` bash
-pip install -r requirements.txt
-```
-
-3.  Execute o app:
+2.  Execute o app:
 
 ``` bash
 streamlit run app.py
 ```
 
-4. Obtenha sua API Key da Groq:
+3. Obtenha sua API Key da Groq:
 
     1- Acesse [Groq Console](https://console.groq.com)
     2- Escolha o modelo -> openai/gpt-oss-20b 
