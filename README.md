@@ -10,7 +10,7 @@
 
 **Slogan:** *Inteligência sem limites, respostas sem fronteiras.*
 
-## 🔥 Descrição Oficial (GitHub)
+## 🤖 O que é?
 
 OmniAI é um assistente inteligente projetado para fornecer respostas
 rápidas, contextuais e estratégicas.\
